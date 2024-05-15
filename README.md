@@ -1,25 +1,25 @@
 <h1 align="center"><b>Better ChatGPT</b></h1>
 
 <p align="center">
-    <a href="https://gpt.slyc.ch" target="_blank"><img src="public/apple-touch-icon.png" alt="Better ChatGPT" width="100" /></a>
+    <a href="https://gpt.slyinc.ch" target="_blank"><img src="public/apple-touch-icon.png" alt="Better ChatGPT" width="100" /></a>
 </p>
 
 <h4 align="center"><b>Free, Powerful, Limitless, Intelligent, Engaging</b></h4>
 
 <p align="center">
-<a href="https://github.com/SlendyMilky/gpt.slyc.ch/blob/main/LICENSE" target="_blank">
+<a href="https://github.com/SlendyMilky/gpt.slyinc.ch/blob/main/LICENSE" target="_blank">
 
 <p align="center">
-    <a href="https://gpt.slyc.ch">Enter Website</a>
+    <a href="https://gpt.slyinc.ch">Enter Website</a>
     ·
-    <a href="https://github.com/SlendyMilky/gpt.slyc.ch/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/SlendyMilky/gpt.slyinc.ch/issues/new/choose">Report Bug</a>
 </p>
 
 
 ## 👋🏻 Introducing Better ChatGPT
 
 <p align="center">
-    <a href="https://gpt.slyc.ch" target="_blank">
+    <a href="https://gpt.slyinc.ch" target="_blank">
         <img src="assets/preview.png" alt="landing" width=500 />
     </a>
 </p>
@@ -53,7 +53,7 @@ Better ChatGPT comes with a bundle of amazing features! Here are some of them:
 
 # 🛠️ Usage
 
-To get started, simply visit our website at <https://gpt.slyc.ch/>. There are 3 ways for you to start using Better ChatGPT.
+To get started, simply visit our website at <https://gpt.slyinc.ch/>. There are 3 ways for you to start using Better ChatGPT.
 
 
 ### Features:
@@ -69,14 +69,14 @@ If you'd like to run your own instance of Better ChatGPT, you can easily do so b
 
 One click deploy with Vercel
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/SlendyMilky/gpt.slyc.ch)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/SlendyMilky/gpt.slyinc.ch)
 
 ## GitHub Pages
 
 ### Steps
 
 1. Create a GitHub account (if you don't have one already)
-2. Fork this [repository](https://github.com/SlendyMilky/gpt.slyc.ch)
+2. Fork this [repository](https://github.com/SlendyMilky/gpt.slyinc.ch)
 3. In your forked repository, navigate to the `Settings` tab
    ![image](https://user-images.githubusercontent.com/59118459/223753577-9b6f8266-26e8-471b-8f45-a1a02fbab232.png)
 4. In the left sidebar, click on `Pages` and in the right section, select `GitHub Actions` for `source`.
@@ -99,7 +99,7 @@ One click deploy with Vercel
    - [node.js](https://nodejs.org/en/) (v14.18.0 or above)
    - [yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/) (6.14.15 or above)
 
-2. Clone this [repository](https://github.com/SlendyMilky/gpt.slyc.ch) by running `git clone https://github.com/SlendyMilky/gpt.slyc.ch.git`
+2. Clone this [repository](https://github.com/SlendyMilky/gpt.slyinc.ch) by running `git clone https://github.com/SlendyMilky/gpt.slyinc.ch.git`
 3. Navigate into the directory by running `cd BetterChatGPT`
 4. Run `yarn` or `npm install`, depending on whether you have yarn or npm installed.
 5. Launch the app by running `yarn dev` or `npm run dev`
