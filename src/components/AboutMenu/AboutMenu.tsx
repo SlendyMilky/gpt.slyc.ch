@@ -35,7 +35,7 @@ const AboutMenu = () => {
                   ns='about'
                   components={[
                     <a
-                      href='https://github.com/SlendyMilky/gpt.slyc.ch'
+                      href='https://github.com/SlendyMilky/gpt.slyinc.ch'
                       target='_blank'
                       className='link'
                     />,
@@ -87,7 +87,7 @@ const AboutMenu = () => {
                     ns='about'
                     components={[
                       <a
-                        href='https://github.com/SlendyMilky/gpt.slyc.ch'
+                        href='https://github.com/SlendyMilky/gpt.slyinc.ch'
                         target='_blank'
                         className='link'
                       />,
